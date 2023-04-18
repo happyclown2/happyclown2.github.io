@@ -1,6 +1,6 @@
 /* As hex codes */
 
-.color-primary-0 { color: #1B3156 }	/* Main Primary color */
+.color-primary-0, h1, h2 { color: #1B3156 }	/* Main Primary color */
 .color-primary-1 { color: #4E6388 }
 .color-primary-2 { color: #30466D }
 .color-primary-3 { color: #0A1D3C }
