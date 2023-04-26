@@ -24,6 +24,10 @@ hr {
 
 p {
     text-align: justify;
+} 
+
+#p1 {
+    text-align: left
 }
 
 /* As RGBa codes */
