@@ -1,14 +1,14 @@
 /* As hex codes */
 
 .color-primary-0 { color: #1B3156 }	/* Main Primary color */
-.color-primary-1 { color: #4E6388 }
+.color-primary-1, h1, h2, p { color: #4E6388 }
 .color-primary-2 { color: #30466D }
 .color-primary-3 { color: #0A1D3C }
-.color-primary-4, h1, h2, p { color: #030F23 }
+.color-primary-4 { color: #030F23 }
 
 .color-bg-0 { background-color: #1B3156 }	/* Main Primary color */
-.color-bg-1, body { background-color: #4E6388 }
-.color-bg-2 { background-color: #30466D }
+.color-bg-1 { background-color: #4E6388 }
+.color-bg-2, body { background-color: #30466D }
 .color-bg-3 { background-color: #0A1D3C }
 .color-bg-4 { background-color: #030F23 }
 
