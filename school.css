@@ -14,7 +14,7 @@
 
 body {
     margin: 20px auto;
-    max-width: 900px;
+    max-width: 1500px;
 }
 
 hr {
@@ -26,7 +26,7 @@ p {
     text-align: justify;
 } 
 
-#p1 {
+#r1 {
     text-align: left
 }
 
